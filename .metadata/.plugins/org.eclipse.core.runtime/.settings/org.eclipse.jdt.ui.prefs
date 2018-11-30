@@ -1,0 +1,9 @@
+content_assist_category_order=org.eclipse.jdt.ui.templateProposalCategory\:0\u0000org.eclipse.jdt.ui.swtProposalCategory\:1\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65537\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65538\u0000org.eclipse.jdt.ui.textProposalCategory\:65539\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:5\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:6\u0000
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=14
+sourceHoverBackgroundColor=255,255,225
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
